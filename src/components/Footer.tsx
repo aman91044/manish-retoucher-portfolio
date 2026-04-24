@@ -37,6 +37,13 @@ const Footer = (): JSX.Element => {
         <a className="link link-hover" href={contact}>
           Contact
         </a>
+        <a className="link link-hover" href={"tel:8849088490"}>
+          Contact me: 8849088490
+        </a>        
+        <a className="link link-hover" href={"mailto:test@gmail.com"}>
+          Mail: test@gmail.com
+        </a>
+        
       </nav>
       <nav>
         <h6 className="footer-title">Social</h6>

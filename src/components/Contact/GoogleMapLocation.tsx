@@ -10,7 +10,7 @@ const GoogleMapLocation = (): JSX.Element => {
       <div className="w-full max-w-6xl aspect-video rounded-lg overflow-hidden shadow-lg">
         <iframe
           title="Google Map showing location in..."
-          src="https://www.google.com/maps/place/Ahmedabad,+Gujarat/@23.0197788,71.9887107,10z/data=!3m1!4b1!4m6!3m5!1s0x395e848aba5bd449:0x4fcedd11614f6516!8m2!3d23.022505!4d72.5713621!16zL20vMDFkODhj?entry=ttu&g_ep=EgoyMDI2MDQyMi4wIKXMDSoASAFQAw%3D%3D"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d470029.9205521201!2d71.98871068715664!3d23.019778756893437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e848aba5bd449%3A0x4fcedd11614f6516!2sAhmedabad%2C%20Gujarat!5e0!3m2!1sen!2sin!4v1777287136183!5m2!1sen!2sin"
           className="w-full h-full"
           style={{border: "0"}}
           allowFullScreen
